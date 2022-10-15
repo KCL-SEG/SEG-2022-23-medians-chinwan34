@@ -12,4 +12,4 @@ while True:
     else:
         break
 
-print(median(numbers))
+print(float(median(numbers)))
